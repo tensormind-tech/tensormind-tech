@@ -51,13 +51,7 @@ data class Jimmy(
 fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 ```
 
-<br/>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/7B2FFF/tensormind-tech" alt="tensormind-tech Contribution Chart" width="95%"/>
-</div>
-
-<br/>
 
 <hr style="border: 0; border-top: 1px solid #302b63; margin: 15px 0; opacity: 0.3;" />
 
