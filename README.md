@@ -224,6 +224,8 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 **Tech:** `Kotlin` · `Jetpack Compose (Material 3)` · `CameraX` · `Groq LLM` · `Perfect Corp AI`
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tensormind-tech/SkinBud)
+&nbsp;&nbsp;
+[![Watch Demo](https://img.shields.io/badge/🎬_Watch_Demo-final__demo.mp4-E91E63?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/tensormind-tech/SkinBud#-video-walkthrough--interactive-demo)
 
 </details>
 
