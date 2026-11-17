@@ -239,8 +239,10 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 <td width="100%">
 
 ### <a href="https://github.com/tensormind-tech/PhishLens"><img src="https://img.shields.io/badge/🛡️-PhishLens-00f5ff?style=for-the-badge&labelColor=0d0d1a" alt="PhishLens"/></a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🏆_Winner-Best_Security_&_Privacy_Hack-FFD700?style=for-the-badge&labelColor=0d0d1a" alt="Winner"/>
 
-> #### *"Real-Time Mobile Phishing & Social Engineering Threat Detector"*
+> #### *"🏆 Award Winner: Best Security & Privacy Hack — Real-Time Mobile Phishing & Threat Detector"*
 
 💡 **The Problem:** Modern social engineering (smishing, quishing, and spoofed alerts) bypasses network-level filters without educating mobile users.
 
