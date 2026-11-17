@@ -407,24 +407,7 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 
 <br/>
 
-<hr style="border: 0; border-top: 1px solid #302b63; margin: 15px 0; opacity: 0.3;" />
 
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=tensormind-tech&show_icons=true&hide_rank=true&hide=issues&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7B2FFF&text_color=e0aaff" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tensormind-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0aaff" alt="Top Languages" height="180">
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tensormind-tech&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00f5ff&fire=e0aaff&currStreakLabel=00f5ff&sideLabels=e0aaff&timezone=Asia/Kolkata)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
 
 ## 🏆 Trophies
 
