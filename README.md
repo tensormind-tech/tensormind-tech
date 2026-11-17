@@ -197,6 +197,108 @@ fun main() = Jimmy().also { println("Character unlocked: ${it.role}") }
 </tr>
 </table>
 
+<!-- Project: SkinBud -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/tensormind-tech/SkinBud"><img src="https://img.shields.io/badge/🌿-SkinBud-D48C84?style=for-the-badge&labelColor=0d0d1a" alt="SkinBud"/></a>
+
+> #### *"AI Skin Diagnostics, 7–14 Day Dermal Simulation & Hyper-Personalized Clinical Formulations"*
+
+💡 **The Problem:** Generic skincare recommendations lack clinical biomarker validation and cannot project future barrier recovery or turnaround times.
+
+🚀 **The Solution:** An on-device computer vision & dermal simulation Android app powered by Perfect Corp AI Skin S2S APIs and Groq Llama-3.3-70B for 16-point biomarker analysis and interactive before/after transformation simulation.
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| 🔬 16-Biomarker Facial Scan | Radar canvas chart measuring barrier hydration, acne, wrinkles, and erythema |
+| 🔮 7–14–28 Day Dermal Simulation | Gesture-driven split slider comparing baseline with projected epidermal turnaround |
+| 🧠 Groq AI Clinical Engine | Llama-3.3-70B formulatory analysis explaining the biochemical rationale for each active |
+| 💄 Foundation & Lip VTO | AR cosmetic try-on shade matching to reduce return rates |
+
+**Tech:** `Kotlin` · `Jetpack Compose (Material 3)` · `CameraX` · `Groq LLM` · `Perfect Corp AI`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tensormind-tech/SkinBud)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Project: PhishLens -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/tensormind-tech/PhishLens"><img src="https://img.shields.io/badge/🛡️-PhishLens-00f5ff?style=for-the-badge&labelColor=0d0d1a" alt="PhishLens"/></a>
+
+> #### *"Real-Time Mobile Phishing & Social Engineering Threat Detector"*
+
+💡 **The Problem:** Modern social engineering (smishing, quishing, and spoofed alerts) bypasses network-level filters without educating mobile users.
+
+🚀 **The Solution:** A defensive Android security app combining CameraX, Google ML Kit OCR text recognition, heuristic URL analyzers, and Groq LLM reasoning to evaluate suspicious messages with dynamic risk scoring (0–100).
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| 🔍 Screenshot & Text OCR | Extract and inspect suspicious SMS or email screenshots via Google ML Kit |
+| 📷 Live QR Quishing Scanner | Pre-evaluates destination URLs before browser navigation |
+| 🎯 Interactive Risk Highlighter | In-line visual markers highlighting scam patterns and deceptive TLDs |
+| ⚡ Groq AI Breakdown | Natural language threat explanation with offline heuristic fallback |
+
+**Tech:** `Kotlin` · `Jetpack Compose` · `ML Kit OCR` · `CameraX` · `Groq API` · `MVVM`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tensormind-tech/PhishLens)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<!-- Project: Kotlin Toolkit -->
+<table>
+<tr>
+<td width="100%">
+
+### <a href="https://github.com/tensormind-tech/kotlin-toolkit"><img src="https://img.shields.io/badge/⚙️-kotlin--toolkit-7B2FFF?style=for-the-badge&labelColor=0d0d1a" alt="kotlin-toolkit"/></a>
+
+> #### *"Idiomatic Kotlin Extensions & Jetpack Compose Utilities for Modern Android Development"*
+
+💡 **The Problem:** Android boilerplate around Context resolution, coroutine throttling, debounce modifiers, and Flow collectors leads to code duplication across projects.
+
+🚀 **The Solution:** An open-source, zero-dependency Kotlin library providing lightweight extensions for Flow operators, debounced click handlers, dimension conversions, and safe lifecycle-aware scopes.
+
+<details>
+<summary>🔍 <b>View Details</b></summary>
+<br/>
+
+| Feature | Description |
+|:---|:---|
+| 🌊 Flow Operators | Built-in `throttleFirst`, `debounce`, and safe state emission collectors |
+| 🎨 Compose Helpers | `clickableDebounced` modifiers and animated shimmer effects |
+| 📱 Context & View Extensions | Clean toast utilities, dimension converters (`dpToPx`), and network checks |
+| ⚡ Kotlin 2.0 Ready | Built for modern JVM and Android Gradle plugins |
+
+**Tech:** `Kotlin 2.0` · `Coroutines` · `Flow` · `Jetpack Compose` · `Gradle`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tensormind-tech/kotlin-toolkit)
+
+</details>
+
+</td>
+</tr>
+</table>
+
 <!-- Project 2: WriteRight AI -->
 <table>
 <tr>
